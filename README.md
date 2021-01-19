@@ -1,16 +1,30 @@
-### Hi there 👋
+# Paloma Macetko <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-<!--
-**cmacetko/cmacetko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub followers](https://img.shields.io/github/followers/cmacetko?style=social)![Twitter Follow](https://img.shields.io/twitter/follow/cmacetko?style=social)![Linkedin: cmacetko](https://img.shields.io/badge/-cmacetko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cmacetko/)![Instagram Badge](https://img.shields.io/badge/-cmacetko-blue?style=social&logo=Instagram&link=https://www.instagram.com/cmacetko/)
 
-Here are some ideas to get you started:
+## Projetos OpenSource
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projeto</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/cmacetko/sysutilapi"><b>SysUtilAPI</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/cmacetko/sysutilapi?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/cmacetko/sysutilapi?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/cmacetko/sysutilapi?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cmacetko/sysutilapi?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
+## Github Stats
+
+![Github Stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=cmacetko)
