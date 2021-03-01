@@ -10,6 +10,8 @@
 
 [![sysutilapi](https://github-readme-stats.vercel.app/api/pin/?username=cmacetko&repo=SysFileZillaServerAPI)](https://github.com/cmacetko/SysFileZillaServerAPI)
 
+[![ctrlmailenable](https://github-readme-stats.vercel.app/api/pin/?username=cmacetko&repo=CtrlMailEnable)](https://github.com/cmacetko/CtrlMailEnable)
+
 ## Github Stats
 
 ![Github Stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=cmacetko)
