@@ -12,6 +12,8 @@
 
 [![ctrlmailenable](https://github-readme-stats.vercel.app/api/pin/?username=cmacetko&repo=CtrlMailEnable)](https://github.com/cmacetko/CtrlMailEnable)
 
+[![sysmailenableapi](https://github-readme-stats.vercel.app/api/pin/?username=cmacetko&repo=SysMailEnableAPI)](https://github.com/cmacetko/SysMailEnableAPI)
+
 ## Github Stats
 
 ![Github Stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=cmacetko)
