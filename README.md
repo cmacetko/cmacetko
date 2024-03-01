@@ -30,11 +30,10 @@
 
 **Paloma Macetko**
 - cmacetko@gmail.com
+- https://www.palomamacetko.com.br/
 - https://github.com/cmacetko/
 - https://www.npmjs.com/~cmacetko
 - https://cmacetko.medium.com
 - https://www.facebook.com/cmacetko
 - https://www.instagram.com/cmacetko/
 - https://twitter.com/cmacetko
-- [Skype: cmacetko](skype:cmacetko "cmacetko")
-- [Whatsapp: 47-91277858](https://wa.me/554791277858 "Whatsapp: 47-91277858")
