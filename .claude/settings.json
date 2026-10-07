@@ -1,0 +1,17 @@
+{
+    "permissions": {
+        "allow": [
+            "Bash(*)",
+            "Edit(*)",
+            "Write(*)",
+            "Read(*)",
+            "Glob(*)",
+            "Grep(*)",
+            "MultiEdit(*)",
+            "NotebookEdit(*)",
+            "WebFetch(*)",
+            "PowerShell(*)",
+            "mcp__claude-in-chrome__*"
+        ]
+    }
+}
