@@ -1,78 +1,185 @@
-# 👋 Olá, sou Paloma Macetko <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/cmacetko?style=social)](https://github.com/cmacetko)
-[![Twitter Follow](https://img.shields.io/twitter/follow/cmacetko?style=social)](https://twitter.com/cmacetko)
-[![LinkedIn](https://img.shields.io/badge/-Paloma%20Macetko-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cmacetko/)
-[![Instagram](https://img.shields.io/badge/-@cmacetko-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/cmacetko/)
-[![NPM](https://img.shields.io/badge/-cmacetko-CB3837?style=flat-square&logo=NPM&logoColor=white)](https://www.npmjs.com/~cmacetko)
+```bash
+~ $ whoami
+```
+
+# Paloma Macetko
+
+**Escrevo código há mais de vinte anos.**
+
+Programação · IA · Robótica · Acessibilidade
+
+[![Site](https://img.shields.io/badge/palomamacetko.com.br-ec4899?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.palomamacetko.com.br/)
+[![Blog](https://img.shields.io/badge/Blog-a855f7?style=for-the-badge&logo=rss&logoColor=white)](https://blog.palomamacetko.com.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cmacetko/)
+[![Instagram](https://img.shields.io/badge/@paloma__macetko-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paloma_macetko/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/cmacetko)
+[![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~cmacetko)
 
 </div>
 
 ---
 
-## 📧 Contato
+## 📄 `cat sobre.md`
+
+Sou desenvolvedora web há mais de duas décadas. Escrevo sobre programação, IA, robótica e acessibilidade, e transformo isso em produtos que gente de verdade usa todos os dias.
+
+Sou mulher trans e cadeirante. **Acessibilidade não é um extra no que eu construo: é requisito desde o primeiro componente.** Navegação por teclado, contraste e leitores de tela entram no projeto junto com o código.
+
+- ♿ **Acessibilidade** — tecnologia feita com atenção a quem usa
+- 🧪 **Rigor técnico** — código em produção há mais de vinte anos
+- 🤖 **Curiosidade** — robótica, automação e IA sempre no radar
+
+---
+
+## 🚀 `ls -t ~/projetos`
+
+### 🔍 [Bisbilhoscópio](https://www.bisbilhoscopio.com.br/) <sup>`novo`</sup>
+
+> **Monitoramento de Windows Server, IIS e bancos de dados. Alertas que explicam, não só apitam.**
+
+<a href="https://www.bisbilhoscopio.com.br/"><img src="assets/bisbilhoscopio.png" alt="Página inicial do Bisbilhoscópio: monitoramento de Windows Server, IIS e bancos de dados, com prévia do painel do servidor SQL-01" width="100%"></a>
+
+Um comando no PowerShell instala um **agente somente leitura** — ele lê, nunca executa nada. Em menos de 5 minutos o painel mostra o servidor, e os alertas chegam **em português**, dizendo o que aconteceu e o que verificar.
+
+- 🖥️ **O que acompanha:** Windows Server 2016 a 2025, IIS, PHP (FastCGI), SQL Server, MySQL/MariaDB, discos, serviços, backups, rede e segurança do Windows
+- 🧠 **Inteligência:** prevê quando o disco vai encher e explica erros e códigos com IA
+- 🔔 **Avisos onde você já está:** e-mail, Telegram, Discord, Teams, Slack, navegador, webhook assinado (HMAC-SHA256), PagerDuty, Opsgenie, N8N, Zapier e mais
+- ⏱️ **Regras do seu jeito:** limites, duração, escalonamento, horário de silêncio e janelas de manutenção
+- 📺 **Extras:** modo TV, relatórios, API e servidor MCP
+- 🎁 **O 1º servidor é grátis para sempre**, sem cartão de crédito
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📝 [Pensieve](https://pensieve.com.br/)
+
+<a href="https://pensieve.com.br/"><img src="assets/pensieve.png" alt="Página inicial do Pensieve: Anote. Lembre. Pronto." width="100%"></a>
+*Anote. Lembre. Pronto.*
+
+App gratuito de notas com lembretes, no navegador, celular e computador — com API, skill e servidor MCP para a IA anotar por você.
+
+`React` `Node.js` `MySQL` `Electron` `MCP`
+
+</td>
+<td width="50%" valign="top">
+
+### ✨ [API Mágica](https://apimagica.com.br/)
+
+<a href="https://apimagica.com.br/"><img src="assets/apimagica.png" alt="Página inicial da API Mágica com exemplo de consulta de CEP" width="100%"></a>
+*A API que resolve o chato do dev brasileiro.*
+
+API REST gratuita com CEP, QR Code Pix, geradores de CPF e CNPJ e cotação do real, documentada em Swagger.
+
+`Node.js` `Express` `MySQL` `Redis` `OpenAPI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🕵️ [Detector de Cilada](https://detectordecilada.com.br/)
+
+<a href="https://detectordecilada.com.br/"><img src="assets/detectordecilada.png" alt="Página inicial do Detector de Cilada: Recebeu algo suspeito? A gente analisa pra você." width="100%"></a>
+IA que analisa textos, imagens e e-mails suspeitos e explica se há golpe, phishing ou engenharia social.
+
+`Gemini` `React` `Node.js` `Prisma` `MySQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧰 [Beco dos Scripts](https://becodosscripts.palomamacetko.com.br/)
+
+<a href="https://becodosscripts.palomamacetko.com.br/"><img src="assets/becodosscripts.png" alt="Caixa de Ferramentas do Desenvolvedor do Beco dos Scripts" width="100%"></a>
+*Ferramentas de dev que rodam no navegador.*
+
+Geradores, formatador de JSON, JWT, UUID e QR Code — sem anúncios e sem enviar seus dados para lugar nenhum.
+
+`React` `TypeScript` `Tailwind CSS` `shadcn/ui`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 📰 [Blog](https://blog.palomamacetko.com.br/)
+
+<a href="https://blog.palomamacetko.com.br/"><img src="assets/blog.png" alt="Página inicial do Blog da Paloma Macetko" width="100%"></a>
+Artigos técnicos sobre programação, IA, robótica e os bastidores dos projetos.
+
+`PHP` `SEO/JSON-LD` `Docker` `Gemini`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ `\d+ skills`
+
+**Linguagens e frameworks**<br>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+
+**Bancos de dados**<br>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Cloud e infraestrutura**<br>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server_%2B_IIS-0078D6?style=flat-square&logo=windows&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI%2FSwagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+
+**IA**<br>
+![LLMs](https://img.shields.io/badge/LLMs-a855f7?style=flat-square&logo=openaigym&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![MCP](https://img.shields.io/badge/Servidores_MCP-ec4899?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Engenharia_de_prompts-6d28d9?style=flat-square)
+
+**Também:** e-commerce, PIX, gateways de pagamento, marketplaces, SEO/JSON-LD, proteção anti-DDoS e acessibilidade (a11y).
+
+---
+
+## 🌱 `git log --graph`
+
+```text
+* 🤖  Produtos com IA e LLMs
+* ☁️  Migração para React, Node.js e nuvem AWS
+* 💳  Integrações de pagamento e marketplaces
+* 🛒  Lojas virtuais e leilões online
+* 🐘  PHP artesanal
+* 🌐  Primeiro site em ASP clássico
+```
+
+<sub>20+ anos no ar, sem reinicializar.</sub>
+
+---
 
 <div align="center">
 
-| Plataforma | Link |
-|---|---|
-| 🌐 **Website** | [palomamacetko.com.br](https://www.palomamacetko.com.br/) |
-| 📧 **Email** | [cmacetko@gmail.com](mailto:cmacetko@gmail.com) |
-| 💼 **LinkedIn** | [@cmacetko](https://www.linkedin.com/in/cmacetko/) |
-| 🐙 **GitHub** | [@cmacetko](https://github.com/cmacetko/) |
-| 📦 **NPM** | [@cmacetko](https://www.npmjs.com/~cmacetko) |
-| 📱 **Instagram** | [@cmacetko](https://www.instagram.com/cmacetko/) |
-| 👍 **Facebook** | [@cmacetko](https://www.facebook.com/cmacetko) |
+### 💌 `cd ~/orcamento`
 
-</div>
+**Quer um site ou sistema feito por mim?**<br>
+Fale comigo pelo [site](https://www.palomamacetko.com.br/contato) ou por [cmacetko@gmail.com](mailto:cmacetko@gmail.com).
 
----
+<br>
 
-## 🦄 Sobre Mim
-
-Olá, unicórnios! ✨ Sou **Paloma Macetko**, uma apaixonada por tecnologia, inovação e criatividade! 🌟
-
-### 💻 Expertise Técnico
-
-Sou desenvolvedora **fullstack** com experiência em:
-
-- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap, jQuery
-- **Backend:** PHP, APIs REST, integração de serviços externos
-- **Mobile:** Desenvolvimento de apps híbridos (iOS & Android)
-- **Cloud:** AWS (EC2, S3, RDS, CloudFront)
-- **Search:** Elasticsearch para buscas em tempo real e análise de logs
-- **Automação:** Soluções de automação residencial com hardware inovador
-
-### 🎨 Criatividade em Primeira Linha
-
-Combino habilidades técnicas com uma paixão genuína pela criatividade e estética. Para mim, cada projeto é uma oportunidade de criar experiências que sejam **funcionais** e **visualmente deslumbrantes**! ✨
-
-### 🚀 O Que Me Move
-
-- Explorar as mais recentes tendências e tecnologias emergentes
-- Transformar ideias criativas em soluções digitais inovadoras
-- Criar experiências de usuário ricas e envolventes
-- Compartilhar conhecimento e colaborar com a comunidade tech
-
----
-
-## 📚 Vamos Aprender Juntos!
-
-No meu [website](https://www.palomamacetko.com.br/), compartilho:
-- 📝 Artigos técnicos e tutoriais
-- 💡 Insights sobre desenvolvimento web
-- 🎨 Dicas sobre design e criatividade
-- 🏠 Soluções de automação residencial
-- ✨ E muito mais!
-
----
-
-<div align="center">
-
-⭐ **Sinta-se livre para explorar meus projetos e conectar-se comigo!**
-
-**Estou sempre aberta a novas ideias, colaborações e oportunidades para criar juntos!** 🌈
+<sub>Feito com Amor e Magia 🦄✨</sub>
 
 </div>
