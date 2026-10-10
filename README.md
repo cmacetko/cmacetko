@@ -171,21 +171,6 @@ Artigos técnicos sobre programação, IA, robótica e os bastidores dos projeto
 
 ---
 
-<div align="center">
-
-### 💌 `cd ~/orcamento`
-
-**Quer um site ou sistema feito por mim?**<br>
-Fale comigo pelo [site](https://www.palomamacetko.com.br/contato) ou por [cmacetko@gmail.com](mailto:cmacetko@gmail.com).
-
-<br>
-
-<sub>Feito com Amor e Magia 🦄✨</sub>
-
-</div>
-
----
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
